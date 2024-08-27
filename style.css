@@ -321,8 +321,8 @@ section {
 .education h2 {
     margin-bottom: 5rem;
     color: white;
-    font-size: 50px;
-    padding-left: 2em;
+    font-size: 40px;
+    padding-right: 2rem;
     text-align: center;
 }
 
@@ -923,6 +923,7 @@ section {
 
     .services-container{
         grid-template-columns: repeat(1,1fr);
+        max-width: 100%;
     }
 
     .portfolio-container{
