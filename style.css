@@ -945,12 +945,11 @@ section {
 
     .services h2{
         margin-bottom: 3rem;
-        font-size: 5px;
 
     }
     .services-container{
         grid-template-columns: repeat(1,1fr);
-        grid-area: auto;
+        max-width: 100px;
 
     }
 
